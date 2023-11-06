@@ -1,0 +1,199 @@
+{
+  "colors": [
+    {
+      "id": 1,
+      "name": "Black",
+      "code": "#000000"
+    },
+    {
+      "id": 2,
+      "code": "#D2BEBF",
+      "name": "Pale Silver"
+    },
+    {
+      "id": 3,
+      "code": "#D6C2C3",
+      "name": "Pink Flare"
+    },
+    {
+      "id": 4,
+      "code": "#DECECF",
+      "name": "Dust Storm"
+    },
+    {
+      "id": 5,
+      "code": "#DECECF",
+      "name": "Dust Storm"
+    },
+    {
+      "id": 6,
+      "code": "#C8BABB",
+      "name": "Cold Turkey"
+    },
+    {
+      "id": 7,
+      "code": "#504A4A",
+      "name": "Liver"
+    },
+    {
+      "id": 8,
+      "code": "#282525",
+      "name": "Baltic Sea"
+    },
+    {
+      "id": 9,
+      "code": "#181717",
+      "name": "Rangoon Green"
+    },
+    {
+      "id": 10,
+      "code": "#A2A0A0",
+      "name": "Star Dust"
+    },
+    {
+      "id": 11,
+      "code": "#D1D0D0",
+      "name": "Grey Goose"
+    },
+    {
+      "id": 12,
+      "code": "#E3E3E3",
+      "name": "Platinum"
+    },
+    {
+      "id": 13,
+      "code": "#EBEBEB",
+      "name": "Dawn Pink"
+    },
+    {
+      "id": 14,
+      "code": "#1A1A1A",
+      "name": "Rangoon Green"
+    },
+    {
+      "id": 15,
+      "code": "#757575",
+      "name": "Boulder"
+    },
+    {
+      "id": 16,
+      "code": "#C8C8C8",
+      "name": "Silver"
+    },
+    {
+      "id": 17,
+      "code": "#CDCDCD",
+      "name": "Pastel Grey"
+    },
+    {
+      "id": 18,
+      "code": "#474747",
+      "name": "Black Cow"
+    },
+    {
+      "id": 19,
+      "code": "#7E7E7E",
+      "name": "Medium Grey"
+    },
+    {
+      "id": 20,
+      "code": "#BEBEBE",
+      "name": "French Grey"
+    },
+    {
+      "id": 21,
+      "code": "#C6C6C6",
+      "name": "Silver"
+    },
+    {
+      "id": 22,
+      "code": "#D6D6D6",
+      "name": "Iron"
+    },
+    {
+      "id": 23,
+      "code": "#DADADA",
+      "name": "Light Grey"
+    },
+    {
+      "id": 24,
+      "code": "#DDDDDD",
+      "name": "Gainsboro"
+    },
+    {
+      "id": 25,
+      "code": "#E1E1E1",
+      "name": "Lavender Pinocchio"
+    },
+    {
+      "id": 26,
+      "code": "#171717",
+      "name": "Rangoon Green"
+    },
+    {
+      "id": 27,
+      "code": "#27904C",
+      "name": "Sea Green"
+    },
+    {
+      "id": 28,
+      "code": "#238144",
+      "name": "Dark Spring Green"
+    },
+    {
+      "id": 29,
+      "code": "#409B60",
+      "name": "Clover Green"
+    },
+    {
+      "id": 30,
+      "code": "#4EA56C",
+      "name": "Algae"
+    },
+    {
+      "id": 31,
+      "code": "#4E4713",
+      "name": "Bronze Olive"
+    },
+    {
+      "id": 32,
+      "code": "#726A2D",
+      "name": "Yellow Metal"
+    },
+    {
+      "id": 33,
+      "code": "#9D955A",
+      "name": "Dark Sand"
+    },
+    {
+      "id": 34,
+      "code": "#5F5A36",
+      "name": "Hemlock"
+    },
+    {
+      "id": 35,
+      "code": "#865DCE",
+      "name": "Purple Sage Bush"
+    },
+    {
+      "id": 36,
+      "code": "#5E4191",
+      "name": "Butterfly Bush"
+    },
+    {
+      "id": 37,
+      "code": "#6B4F9C",
+      "name": "Butterfly Bush"
+    },
+    {
+      "id": 38,
+      "code": "#775DA5",
+      "name": "Deluge"
+    },
+    {
+      "id": 39,
+      "code": "#836AAF",
+      "name": "Deep Lavender"
+    }
+  ]
+}
