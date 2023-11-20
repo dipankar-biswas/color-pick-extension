@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+        .color-select {
+            display: flex;
+            column-gap: 24px;
+            margin-top: 30px;
+        }
+        .color-select .step {
+            display: flex;
+            flex-direction: column;
+            row-gap: 12px;
+        }
+        .color-select .step .aac-card-shade {}
+        .color-select .step .aac-card-shade .aac-card-shade-name {
+            width: 200px;
+            height: 40px;
+            border-radius: 6px;
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <button type="button" class="btn1">Button1</button>
+    <button type="button" class="btn2">Button2</button>
+
+
+    <div class="color-select">
+        <div class="step">
+            <div class="aac-card-shade"><span class="aac-card-shade-name" style="background: #FF734C;"></span></div>
+            <div class="aac-card-shade"><span class="aac-card-shade-name" style="background: #D5CDB4;"></span></div>
+            <div class="aac-card-shade"><span class="aac-card-shade-name" style="background: #EEEDE4;"></span></div>
+            <div class="aac-card-shade"><span class="aac-card-shade-name" style="background: #602A1B;"></span></div>
+            <div class="aac-card-shade"><span class="aac-card-shade-name" style="background: #B95337;"></span></div>
+        </div>
+        <div class="step">
+            <div class="aac-card-shade"><span class="aac-card-shade-name" style="background: #FF734C;"></span></div>
+            <div class="aac-card-shade"><span class="aac-card-shade-name" style="background: #FFCABC;"></span></div>
+            <div class="aac-card-shade"><span class="aac-card-shade-name" style="background: #FFF2EE;"></span></div>
+            <div class="aac-card-shade"><span class="aac-card-shade-name" style="background: #6B2F1F;"></span></div>
+            <div class="aac-card-shade"><span class="aac-card-shade-name" style="background: #6B79A3;"></span></div>
+        </div>
+        <div class="step">
+            <div class="aac-card-shade"><span class="aac-card-shade-name" style="background: #FF734C;"></span></div>
+            <div class="aac-card-shade"><span class="aac-card-shade-name" style="background: #FFBAA7;"></span></div>
+            <div class="aac-card-shade"><span class="aac-card-shade-name" style="background: #E8EEEA;"></span></div>
+            <div class="aac-card-shade"><span class="aac-card-shade-name" style="background: #602A1B;"></span></div>
+            <div class="aac-card-shade"><span class="aac-card-shade-name" style="background: #B95337;"></span></div>
+        </div>
+        <div class="step">
+            <div class="aac-card-shade"><span class="aac-card-shade-name" style="background: #FF734C;"></span></div>
+            <div class="aac-card-shade"><span class="aac-card-shade-name" style="background: #FFC5B5;"></span></div>
+            <div class="aac-card-shade"><span class="aac-card-shade-name" style="background: #ECE6E6;"></span></div>
+            <div class="aac-card-shade"><span class="aac-card-shade-name" style="background: #6B2F1F;"></span></div>
+            <div class="aac-card-shade"><span class="aac-card-shade-name" style="background: #907572;"></span></div>
+        </div>
+    </div>
+
+    <script>
+        let btn1 = document.querySelector('.btn1');
+        if(btn1){
+            let countValue = 1;
+            setInterval(() => {
+                if(countValue <= 3){
+                    console.log(countValue);
+                    countValue++;
+                }
+            }, 500);
+        }
+    </script>
+</body>
+</html>
