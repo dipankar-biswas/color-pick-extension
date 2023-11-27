@@ -1,4 +1,4 @@
-getData();
+// getData();
 let code = document.querySelector('#aac-hex-name');
 let name = document.querySelector('#aac-artyclick-name');
 let showData = document.querySelector('.dataDisplay');
